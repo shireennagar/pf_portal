@@ -1,2 +1,2 @@
 hi ia mshirreen
-doll
+dollint i=10
